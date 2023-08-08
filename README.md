@@ -69,4 +69,4 @@ To create the executable u need to generate a uniq .exe on the terminal of the v
 
 
 ## ⚠️ Legal Disclaimer
-#### <p>Usafe of DotRat to infect persons without prior mutual consent is illegal. It is the end user's responsabilitie to obey all applicable local, state and federal laws. The developer is not responsible for any wrongdoing of this programme, this programme has been developed for ethical purposes. </p>
+#### <p>Usage of DotRat to infect persons without prior mutual consent is illegal. It is the end user's responsabilitie to obey all applicable local, state and federal laws. The developer is not responsible for any wrongdoing of this programme, this programme has been developed for ethical purposes. </p>
