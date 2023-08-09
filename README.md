@@ -33,7 +33,7 @@
 
 ## Rat Persistence Video 
 
-[![Video RAT](https://i.ytimg.com/vi/B8ZWy7QvyGM/sddefault.jpg)](https://streamable.com/vaye57)
+[![Video RAT](https://images.assetsdelivery.com/compings_v2/4zevar/4zevar1509/4zevar150900035.jpg)](https://streamable.com/vaye57)
 
 ## Rat Control Panel 
 ![toto](https://i.imgur.com/y0bGQEM.png) ![tete](https://i.imgur.com/igLrhtP.png)
