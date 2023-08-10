@@ -49,6 +49,11 @@
 - 💻 Execute commands on the Victim PC.
 - 🌍 IP registration
 
+## TODO📝
+
+- [-] Log keystrokes
+- [-] Take screenshots
+
 ## Requirements
 
 - Visual Studio 2022
