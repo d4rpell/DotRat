@@ -51,8 +51,8 @@
 
 ## TODO📝
 
-- [-] Log keystrokes
-- [-] Take screenshots
+- [ ] Log keystrokes
+- [ ] Take screenshots
 
 ## Requirements
 
